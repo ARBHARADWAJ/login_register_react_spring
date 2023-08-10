@@ -1,0 +1,25 @@
+.field {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 60vw;
+}
+input{
+
+
+}
+
+.gap{
+width: 100vw;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+
+}
+h2{
+    border-bottom:3px solid blue ;
+}

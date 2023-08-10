@@ -1,0 +1,39 @@
+
+
+.field {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50vw;
+  gap: 40px;
+  background-color: white;
+}
+
+.body{
+width: 100vw;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+
+.text{
+  text-align: right;
+  color: red;
+}
+
+h2{
+  border-bottom: 4px solid blue;
+  
+  /* text-align: center; */
+
+}
+
+@media screen and (max-width: 650px) {
+
+}
